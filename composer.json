@@ -8,7 +8,7 @@
         "php": "^7.3",
         "aws/aws-sdk-php": "~3.0",
         "elasticsearch/elasticsearch": "7.9.*",
-        "nesbot/carbon": "^2.45.*"
+        "nesbot/carbon": "~2.45.1"
     },
     "license": "MIT",
     "authors": [
