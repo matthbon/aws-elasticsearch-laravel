@@ -5,7 +5,7 @@ AWS Elasticsearch Service for Laravel/Lumen
 
 ## Installation
 
-    composer require elegisandi/aws-elasticsearch-laravel
+    composer require matthbon/aws-elasticsearch-laravel
 
 ## Laravel/Lumen Integration
 
