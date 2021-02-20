@@ -1,13 +1,13 @@
 {
-    "name": "elegisandi/aws-elasticsearch-laravel",
+    "name": "matthbon/aws-elasticsearch-laravel",
     "description": "AWS Elasticsearch Service for Laravel/Lumen",
     "keywords": ["elegisandi", "aws", "elasticsearch", "laravel", "aws-elasticsearch-laravel"],
     "homepage": "https://github.com/elegisandi/aws-elasticsearch-laravel", 
     "type": "library",
     "require": {
-        "php": ">=7.0",
+        "php": "^7.3",
         "aws/aws-sdk-php": "~3.0",
-        "elasticsearch/elasticsearch": "~6.0",
+        "elasticsearch/elasticsearch": "7.9.*",
         "nesbot/carbon": "~1.20"
     },
     "license": "MIT",
